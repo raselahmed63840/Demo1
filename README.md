@@ -30,7 +30,3 @@ Recommended next stack: Next.js Route Handlers + PostgreSQL/MySQL + Prisma/Drizz
 ![E-Commerce Homepage](./screenshots/home-page.png)
 
 Sondor vaby dakbo:
-
-## Project Screenshot
-
-<img src="./screenshots/home-page.png" alt="E-Commerce Homepage" width="100%" />
