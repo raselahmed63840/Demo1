@@ -6,7 +6,7 @@ A responsive, API-ready e-commerce storefront built with **Next.js**, **React**,
 The project recreates the customer-facing experience of a Laravel-based e-commerce application with a modern Next.js App Router architecture.
 
 <p>
-  <a href="https://demo1.netlify.app/"><strong>Live Demo</strong></a>
+  <a href="https://demop1.netlify.app/"><strong>Live Demo</strong></a>
   ·
   <a href="https://github.com/raselahmed63840/Demo1"><strong>Source Code</strong></a>
 </p>
@@ -302,7 +302,7 @@ These functions should be implemented only on secure server-side infrastructure 
 
 - GitHub: [@raselahmed63840](https://github.com/raselahmed63840)
 - Project repository: [Demo1](https://github.com/raselahmed63840/Demo1)
-- Live preview: [demo1.netlify.app](https://demo1.netlify.app/)
+- Live preview: [demo1.netlify.app](https://demop1.netlify.app/)
 
 ---
 
