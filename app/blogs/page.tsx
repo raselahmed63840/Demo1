@@ -1,0 +1,4 @@
+import Link from "next/link";
+import { blogs } from "@/lib/data";
+import { PageHero, Storefront } from "@/components/storefront";
+export default function BlogsPage() { return <Storefront><PageHero eyebrow="Super Ecommerce journal" title="Ideas for better everyday shopping" text="Buying guides, product inspiration and small habits that make life easier." /><main className="container section"><div className="blog-list">{blogs.map((blog) => <article key={blog.id}><Link href={`/blogs/${blog.slug}`}><img src={blog.image} alt={blog.title} /></Link><div><p>{blog.category} · {blog.date}</p><Link href={`/blogs/${blog.slug}`}><h2>{blog.title}</h2></Link><span>{blog.excerpt}</span><Link href={`/blogs/${blog.slug}`} className="text-link">Read article →</Link></div></article>)}</div></main></Storefront>; }

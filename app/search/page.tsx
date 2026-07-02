@@ -1,0 +1,2 @@
+import { PageHero, ShopControls, Storefront } from "@/components/storefront";
+export default async function SearchPage({ searchParams }: { searchParams: Promise<{ q?: string }> }) { const { q = "" } = await searchParams; return <Storefront><PageHero eyebrow="Search" title={q ? `Results for “${q}”` : "Search the store"} text="Search products, categories and sellers in one place." /><main className="container section"><ShopControls initialQuery={q} /></main></Storefront>; }
