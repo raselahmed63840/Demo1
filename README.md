@@ -8,7 +8,7 @@ The project recreates the customer-facing experience of a Laravel-based e-commer
 <p>
   <a href="https://demop1.netlify.app/"><strong>Live Demo</strong></a>
   ·
-  <a href="https://github.com/raselahmed63840/Demo1"><strong>Source Code</strong></a>
+  <a href="https://github.com/raseljs/Demo1"><strong>Source Code</strong></a>
 </p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
@@ -198,7 +198,7 @@ Install a current **Node.js LTS** version with npm before running the project.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/raselahmed63840/Demo1.git
+git clone https://github.com/raseljs/Demo1.git
 cd Demo1
 ```
 
@@ -300,8 +300,8 @@ These functions should be implemented only on secure server-side infrastructure 
 
 **Rasel Ahmed**
 
-- GitHub: [@raselahmed63840](https://github.com/raselahmed63840)
-- Project repository: [Demo1](https://github.com/raselahmed63840/Demo1)
+- GitHub: [@raseljs](https://github.com/raseljs)
+- Project repository: [Demo1](https://github.com/raseljs/Demo1)
 - Live preview: [demo1.netlify.app](https://demop1.netlify.app/)
 
 ---
